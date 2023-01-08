@@ -27,9 +27,11 @@
     "vite": "^4.0.4"
   },
   "dependencies": {
+    "@yonlu-ui/eslint-config": "*",
+    "@yonlu-ui/ts-config": "*",
     "@yonlu-ui/react": "*",
     "@yonlu-ui/tokens": "*",
-    "@yonlu-ui/eslint-config": "*",
+    "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }

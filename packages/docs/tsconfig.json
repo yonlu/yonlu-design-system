@@ -1,0 +1,6 @@
+{
+  "extends": "@yonlu-ui/ts-config/react.json",
+  "include": [
+    "src"
+  ]
+}
