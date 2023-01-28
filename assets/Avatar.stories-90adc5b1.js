@@ -1,0 +1,2 @@
+import{A as t}from"./index-9a40b68f.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/yonlu.png",alt:"Yonlu"}},p={},c={args:{src:void 0}},l=["Primary","WithFallBack"];export{p as Primary,c as WithFallBack,l as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-90adc5b1.js.map

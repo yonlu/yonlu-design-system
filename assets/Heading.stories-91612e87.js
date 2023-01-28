@@ -1,0 +1,2 @@
+import{H as a}from"./index-9a40b68f.js";import"./index-34e51894.js";import"./es.object.get-own-property-descriptor-64192e07.js";import"./index-75cd1920.js";import"./jsx-runtime-da4cfb3b.js";const i={title:"Typography/Heading",component:a,args:{children:"Title Example"}},n={},p={args:{children:"H1 Heading",as:"h1"},parameters:{docs:{description:{story:"Default tag is `h2`. This can be changed by passing `as` prop."}}}},m=["Primary","CustomTag"];export{p as CustomTag,n as Primary,m as __namedExportsOrder,i as default};
+//# sourceMappingURL=Heading.stories-91612e87.js.map
