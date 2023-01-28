@@ -15,4 +15,6 @@ export const colors = {
   yonlu500: '#00875F',
   yonlu700: '#015F43',
   yonlu900: '#00291D',
+
+  test: '#FFF',
 }
